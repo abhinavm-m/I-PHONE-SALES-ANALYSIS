@@ -42,9 +42,6 @@ An interactive Excel dashboard analyzing iPhone sales across countries, models, 
 3. **Address the sales decline:** The downward trend suggests a need for promotions or new-model launches.
 
 ---
+## Author
 
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open `iPhone_Sales_Analysis.xlsx` in Microsoft Excel.
-3. Use the slicers on the left to filter the dashboard.
+Abhinav
