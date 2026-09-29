@@ -4,7 +4,7 @@ An interactive iPhone Sales Analysis Dashboard created using Excel to analyze sa
 
 ## 📊 Dashboard Overview
 
-![iPhone Sales Analysis Dashboard](<img width="487" height="488" alt="iphone sales analysis dashboard" src="https://github.com/user-attachments/assets/ba54ee21-0201-44fd-baeb-f42c68eb80eb" />
+![iPhone Sales Analysis Dashboard](<img width="487" height="488" alt="iphone sales analysis dashboard" src="https://github.com/user-attachments/assets/bad86748-dfbe-44ff-824c-c90b86a261bc" />
 )
 
 ## 🔍 Project Overview
